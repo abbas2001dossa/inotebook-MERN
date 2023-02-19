@@ -1,0 +1,15 @@
+{
+  "name": "inotebook-backend",
+  "version": "1.0.0",
+  "description": "its a notebook which would supported by cloud to ensure security and privacy and durability",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abbas Dossa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  }
+}
